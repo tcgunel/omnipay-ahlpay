@@ -1,0 +1,24 @@
+{
+  "merchantId": "100",
+  "merchantUser": "test@ahlpay.com",
+  "merchantPassword": "AhlPass123",
+  "merchantStorekey": "AhlStoreKey456",
+  "testMode": true,
+  "amount": "100.00",
+  "currency": "TRY",
+  "transactionId": "ORDER-12345",
+  "installment": "1",
+  "secure": false,
+  "clientIp": "192.168.1.1",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.test",
+  "tokenType": "Bearer",
+  "ahlpayMerchantId": 5001,
+  "card": {
+    "number": "4355084355084358",
+    "expiryYear": "2030",
+    "expiryMonth": "12",
+    "cvv": "000",
+    "firstName": "Test",
+    "lastName": "User"
+  }
+}

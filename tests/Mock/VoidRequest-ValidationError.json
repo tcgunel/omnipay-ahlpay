@@ -1,0 +1,10 @@
+{
+  "merchantId": "100",
+  "merchantUser": "test@ahlpay.com",
+  "merchantPassword": "AhlPass123",
+  "merchantStorekey": "AhlStoreKey456",
+  "testMode": true,
+  "currency": "TRY",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.test",
+  "ahlpayMerchantId": 5001
+}

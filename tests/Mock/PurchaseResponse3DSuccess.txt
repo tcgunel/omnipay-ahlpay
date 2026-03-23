@@ -1,0 +1,6 @@
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: application/json; charset=utf-8
+Content-Length: 512
+
+{"isSuccess":true,"message":"3D yonlendirme basarili","data":"<html><body><form action='https://3d.ahlpay.com'>...</form></body></html>"}

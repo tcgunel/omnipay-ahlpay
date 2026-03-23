@@ -1,0 +1,8 @@
+{
+  "merchantId": "100",
+  "merchantUser": "test@ahlpay.com",
+  "merchantPassword": "AhlPass123",
+  "merchantStorekey": "AhlStoreKey456",
+  "testMode": true,
+  "secure": false
+}

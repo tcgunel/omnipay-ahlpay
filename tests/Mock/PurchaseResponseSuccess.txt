@@ -1,0 +1,6 @@
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: application/json; charset=utf-8
+Content-Length: 512
+
+{"isSuccess":true,"message":"Islem basarili","data":{"authCode":"AHL001","orderId":"ORDER-12345"}}
